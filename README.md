@@ -2,7 +2,7 @@
 
 A Google Colab notebook that walks through the basics of machine learning, step by step.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YadielCruz/IRML-CER3D_Dataset/blob/main/IRML_CER3D_modules.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YadielCruz/IRML-CER3D_Dataset/blob/main/IRML_CER3D_modules.ipynb](https://github.com/YadielCruz/IRML-CER3D_Dataset/blob/main/Module_1_Loading_IR_Spectra_for_Classification_Models.ipynb))
 
 ## What's inside
 
