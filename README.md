@@ -1,8 +1,11 @@
 # Learn Machine Learning with Colab
 
 A Google Colab notebook that walks through the basics of machine learning, step by step.
+# Learn Machine Learning with Colab
 
-[![Open In Colab](https://github.com/YadielCruz/IRML-CER3D_Dataset/blob/main/Module_1_Loading_IR_Spectra_for_Classification_Models.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YadielCruz/IRML-CER3D_Dataset/blob/main/Module_1_Loading_IR_Spectra_for_Classification_Models.ipynb)
+
 
 ## What's inside
 
